@@ -1,4 +1,9 @@
 # Federico Serrano
 
 ## 1. What crumbles away cannot be destroyed
-![image](.png)
+<p float="left">
+  <img src="/exp_optical_lattice.png" width="100" />
+  <img src="/gp_optical_lattice.png" width="100" /> 
+  <img src="/twa_optical_lattice.png" width="100" />
+</p>
+![image](exp_optical_lattice.png)
