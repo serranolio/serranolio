@@ -15,10 +15,9 @@ The whole activity reminds me a passage of the [Ecclesiastes](https://en.wikiped
 
 > A time to cast away stones, and a time to gather stones together;
 
-The original meaning speaks more about the *destruction-constrcuction dicotomy* and less about atoms in a quantum condensates. However, I picture people building a lab, cooling atoms down to near absolute zero, heating them back up, collecting data, permutating this and that parameter, running the experiment again. 
+The original meaning speaks more about the *destruction-constrcuction dicotomy* and less about atoms in a quantum condensates. Still, I picture people building a lab, cooling atoms down to near absolute zero, heating them back up, collecting data, permutating this and that parameter, running the experiment again. I imagine myself programming a computer, forcing it to simulate the system from simple rules —believing, at some level, that those rules are fundamental. In that effort, I feel connected to all those who study Nature, whether with $^{87}\text{Rb}$ atoms or with stones. While working on this project, there were moments where I felt I was making progress—understanding some underyling physical idea or at least doing thing in the right way. There were other moments were I felt that I was moving backwards weighted down by mistakes too difficult to find, too difficult to correct. I was frustrated. 
 
-
-I imagine us feeding simple rules into a computer, forcing it to simulate the system from simple rules —believing, at some level, that those rules are fundamental. In that, I feel connected to the people who did all of this before me, whether with $^{87}\text{Rb}$ atoms or with stones. To me, this project feels like a kind of tradition: a way of doing something that has no final answer, no tidy resolution. Workout a difficult problem that solves nothing because this is what we, since the beggining, have been doing all the way. My collaborators would disagree.
+This project is a tradition: workout difficult problems and find complex solutions that answer nothing. We have been doing the same all over again. Maybe *Ecclesiastes* tru;y captured the essence of Nature—at least, of human nature.
 
 <div align="center">
   <img src="/gp_optical_lattice.png" width="100" /> 
