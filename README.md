@@ -7,7 +7,7 @@ I still don’t have a faithful theoretical description of the experiment—but 
 I often talk with Dr. Engels' students about the scattering project—about how they cool down $^{87}\text{Rb}$ atoms to form a condensate, and how they use an optical lattice to split the cloud into two parts with distinct momenta. They then release the system and let it evolve freely; that's when the atoms collide and scatter away. The whole operation takes no more that $18\ ms$, they repeat these type of experiments overe again on a daily basis. 
 
 <div align="center">
-  <img src="/exp_optical_lattice_2.png" width="100%" />
+  <img src="/exp_optical_lattice_2.png" width="90%" />
   <p><em>Image of two Bose-Eintein condensates moving in opposite directions after 18 ms of time of flight. The atoms collide and create a scattering pattern that is not fully described classically.</em></p>
 </div>
 
