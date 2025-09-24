@@ -1,4 +1,12 @@
 # Federico Serrano
+In the south of China you should not flip the fish while eating it. They manage to eat it entierly from one side becaouse the underlying believe is that flipping the fish gives bad luck to the fisher as it resemblence the flipping boat on the sea. So, once again, humans rely on metaphors to understand nature. The fish is the boat and the soup is the sea. This works well in China, but not where I live, for here metaphors are not a source of knowledge anymore. It is blieved that after enlightment knowledge and metaphors detached abruptly and now they follow separate ways. Before enlightmenet, however, art and science were the same, so the seek of new knowledge was the seek of new metaphors.
+
+But there are no new metaphors, as Jorge Luis Borges said:
+
+ > "The things that are said in literature are always the same. What is important is the way they are said. Looking for metaphors, for example: When I was a young man I was always hunting for new metaphors. Then I found out that really good metaphors are always the same"
+
+He then gave some examples of good metaphors: the river is time, sleep is dying... and a bad metaphor: the elevator is a thermometer. So, if there are no new metaphors, our understanding of nature is what it is. Now, how do we gain knowledge if not by metaphors?
+
 <details>
 <summary><strong style="font-size: 1.5em;">A time to cast away atoms, and a time to gather atoms together</strong></summary>
 
