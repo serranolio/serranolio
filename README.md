@@ -1,16 +1,33 @@
 # Federico Serrano
-In the south of China you should not flip the fish while eating it. They manage to eat it entierly from one side becaouse the underlying believe is that flipping the fish gives bad luck to the fisher as it resemblence the flipping boat on the sea. So, once again, humans rely on metaphors to understand nature. The fish is the boat and the soup is the sea. This works well in China, but not where I live, for here metaphors are not a source of knowledge anymore. It is blieved that after enlightment knowledge and metaphors detached abruptly and now they follow separate ways. Before enlightmenet, however, art and science were the same, so the seek of new knowledge was the seek of new metaphors.
+In the south of China you shouldn't flip the fish while eating it. They manage to eat it entierly from one side, the underlying believe is that flipping the fish gives bad luck to the fisher as it resemblence the flipping boat on the sea. So, once again, humans rely on metaphors to understand nature. The fish is the boat and the soup is the sea. This works well in China, but not where I live, for here metaphors are not a source of knowledge anymore. It is blieved that after enlightment knowledge and metaphors detached abruptly and now they follow separate ways. Before enlightmenet, however, art and science were the same; the seek of new knowledge was the seek of new metaphors.
 
-But there are no new metaphors, as Jorge Luis Borges said:
+However, whatever metaphors that you may create or _find_ are not necessarly new knowledge. One can go even further and claim that there aren't new metaphors, as [Jorge Luis Borges](https://www.youtube.com/watch?v=o_nsHc4jyGc&t=813s) once said:
 
  > "The things that are said in literature are always the same. What is important is the way they are said. Looking for metaphors, for example: When I was a young man I was always hunting for new metaphors. Then I found out that really good metaphors are always the same"
 
-He then gave some examples of good metaphors: the river is time, sleep is dying... and a bad metaphor: the elevator is a thermometer. So, if there are no new metaphors, our understanding of nature is what it is. Now, how do we gain knowledge if not by metaphors?
+He also gave some examples of what _fundamental_ metaphors are: the river is time, sleep is dying, sunset is eld... and also one example of a _bad metaphor_ from Vicente Huidobro: the elevator is a thermometer. Without new metaphors to look for, the understanding of nature is what it is: complete.
+
+What opposes metaphors are literal statements. [Immanuel Kant](https://en.wikipedia.org/wiki/The_Only_Possible_Argument_in_Support_of_a_Demonstration_of_the_Existence_of_God) identifies two types of statements: analytic and synthetic. Science switched from describing nature through metaphors to describing nature through the latter.
+
+with synthetic statements
+
+> “But in order to attain this end, one must venture into the bottomless abyss of metaphysics. A dark ocean without shores and without lighthouses, where one must proceed as the seafarer on an uncharted sea, who, as soon as he touches land anywhere, examines and investigates his course, lest unnoticed sea-currents, despite all the caution that the art of navigation may command, have led him astray.”
+
+with the OTHER OPTION the system is incomplete and nature remains inscrutable.
+
+
+
+
+Hence why the system of metaphors is complete.
+
+
+
+Now, how do we gain knowledge if not by metaphors?
 
 <details>
 <summary><strong style="font-size: 1.5em;">A time to cast away atoms, and a time to gather atoms together</strong></summary>
 
-### *Thoughts about out-of-equilibrium quantum scattering in Bose-Einstein condensates*
+<!--### *Thoughts about out-of-equilibrium quantum scattering in Bose-Einstein condensates*
 
 I was in Spokane, Washington when I first heard about the project. [Qingze Guan](https://physics.wsu.edu/people/faculty/qingze-guan/) and [Doerte Blume](https://www.ou.edu/cqrt/people/doerte-blume) invited me to a meeting to discuss some results from an experiment devised by [Peter Engels’ group](https://labs.wsu.edu/engels/). They had been working on a theoretical explanation and were now looking to include me. To be honest, the idea sounded utterly exigent for me, so I wasn't excited.
 
@@ -50,7 +67,7 @@ I imagine myself programming a computer, forcing it to simulate the system from 
 
 While working on this project, there were moments where I felt I was making progress—understanding some underlying physical idea or at least doing things the right way. There were other moments where I felt I was moving backward, weighted down by mistakes too difficult to find, too difficult to correct. I was frustrated.
 
-This project is a tradition: work out difficult problems and find complex solutions that answer nothing. We have been doing the same all over again. Maybe *Ecclesiastes* truly captured the essence of Nature—at least, of human nature.
+This project is a tradition: work out difficult problems and find complex solutions that answer nothing. We have been doing the same all over again. Maybe *Ecclesiastes* truly captured the essence of Nature—at least, of human nature. -->
 
 </details>
 
