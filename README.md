@@ -5,9 +5,9 @@ However, whatever metaphors that you may create or _find_ are not necessarly new
 
  > "The things that are said in literature are always the same. What is important is the way they are said. Looking for metaphors, for example: When I was a young man I was always hunting for new metaphors. Then I found out that really good metaphors are always the same"
 
-He also gave some examples of what _fundamental_ metaphors are: the river is time, sleep is dying, sunset is eld... and also one example of a _bad metaphor_ from Vicente Huidobro: the elevator is a thermometer. Without new metaphors to look for, the understanding of nature is what it is: complete.
+He also gave some examples of what _fundamental_ metaphors are: the river is time, sleep is dying, sunset is eld... and also one example of a _bad metaphor_ from Vicente Huidobro: the elevator is a thermometer. Believing that really good metaphors are always the same, is believing that there aren't new metaphors to look for; that nature is what we know, what we understand. The knowledge system is, therefore, complete.
 
-What opposes metaphors are literal statements. [Immanuel Kant](https://en.wikipedia.org/wiki/The_Only_Possible_Argument_in_Support_of_a_Demonstration_of_the_Existence_of_God) identifies two types of statements: analytic and synthetic. Science switched from describing nature through metaphors to describing nature through the latter.
+What opposes metaphors are literal statements. [Immanuel Kant](https://en.wikipedia.org/wiki/The_Only_Possible_Argument_in_Support_of_a_Demonstration_of_the_Existence_of_God) identifies two types of statements: analytic and synthetic. Science switched from describing nature through metaphors to describing nature through the latter. We wentr from "the river is time" to "time is a cathegory of the mind".
 
 with synthetic statements
 
@@ -18,16 +18,13 @@ with the OTHER OPTION the system is incomplete and nature remains inscrutable.
 
 
 
-Hence why the system of metaphors is complete.
-
-
-
 Now, how do we gain knowledge if not by metaphors?
 
+<!--
 <details>
 <summary><strong style="font-size: 1.5em;">A time to cast away atoms, and a time to gather atoms together</strong></summary>
 
-<!--### *Thoughts about out-of-equilibrium quantum scattering in Bose-Einstein condensates*
+### *Thoughts about out-of-equilibrium quantum scattering in Bose-Einstein condensates*
 
 I was in Spokane, Washington when I first heard about the project. [Qingze Guan](https://physics.wsu.edu/people/faculty/qingze-guan/) and [Doerte Blume](https://www.ou.edu/cqrt/people/doerte-blume) invited me to a meeting to discuss some results from an experiment devised by [Peter Engels’ group](https://labs.wsu.edu/engels/). They had been working on a theoretical explanation and were now looking to include me. To be honest, the idea sounded utterly exigent for me, so I wasn't excited.
 
