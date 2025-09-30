@@ -20,8 +20,9 @@ with the OTHER OPTION the system is incomplete and nature remains inscrutable.
 
 Now, how do we gain knowledge if not by metaphors?
 
-![Demo animation](phase_diagram_2.7Er.gif)
 
+
+<img src="phase_diagram_2.7Er.gif" width="400"/>
 
 <!--
 <details>
