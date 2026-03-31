@@ -22,7 +22,7 @@ Now, how do we gain knowledge if not by metaphors?
 
 
 
-<img src="phase_diagram_2.7Er.gif" width="400"/>
+<img src="animation.gif" width="400"/>
 
 <!--
 <details>
