@@ -11,7 +11,7 @@ He also gave some examples of what _fundamental_ metaphors are: the river is tim
 
 
 <details>
-<summary><strong style="font-size: 2.5em;"> How do we gain knowledge if not by metaphors? </strong></summary>
+<summary><strong style="font-size: 2.5em;"> How do we gain knowledge? </strong></summary>
 
 What opposes metaphors are literal statements. [Immanuel Kant](https://en.wikipedia.org/wiki/The_Only_Possible_Argument_in_Support_of_a_Demonstration_of_the_Existence_of_God) identifies two types of statements: analytic and synthetic. Science switched from describing nature through metaphors to describing nature through the latter. We went from "the river is time" to "time is a category of the mind" or "time is a physical parameter".
 
@@ -20,6 +20,14 @@ Synthetic statements are connected and not self-explanatory, they produce a netw
 > “But in order to attain this end, one must venture into the bottomless abyss of metaphysics. A dark ocean without shores and without lighthouses, where one must proceed as the seafarer on an uncharted sea, who, as soon as he touches land anywhere, examines and investigates his course, lest unnoticed sea-currents, despite all the caution that the art of navigation may command, have led him astray.”
 
 Here, the system is incomplete and nature remains inscrutable.
+
+<summary><strong style="font-size: 2.5em;"> Analogies instead of metaphors? </strong></summary>
+
+One new way of understanding phenomena is through the process of information. With the advent of computers and clusters we gain the power of understanding nature not by its fundamental mechanism but by its practical consequences. We have computers that are programmable and we used them to integrate (by brute force) data. The result is a map between natural phenomena and effective equations restricted to some regime of validity. We can even go further and define a renormalization-group (RG) flow to know how these maps change over different regimes. The mapping between phenomena and equations is an *analogy*: we understand nature by observables mapped to a model.
+
+This mapping is not unilateral, as we can also map a physical system onto a model. This is the principle of analogical computation.
+
+<img src="animation.gif" width="400"/>
 
 </details>
 
