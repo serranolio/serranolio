@@ -7,22 +7,23 @@ Whatever metaphors that you may create or _find_ are not necessarly new knowledg
 
  > "The things that are said in literature are always the same. What is important is the way they are said. Looking for metaphors, for example: When I was a young man I was always hunting for new metaphors. Then I found out that really good metaphors are always the same"
 
-He also gave some examples of what _fundamental_ metaphors are: the river is time, sleep is dying, sunset is eld... and also one example of a _bad metaphor_ from [Vicente Huidobro](https://circulodepoesia.com/2018/02/vicente-huidobro-horizon-carre/): the elevator is a thermometer. Believing that really good metaphors are always the same, is believing that there aren't new metaphors to look for: that nature is what we know, what we understand. The knowledge system is, therefore, complete.
+He also gave some examples of what _fundamental_ metaphors are: the river is time, sleep is dying, sunset is eld... and also one example of a _bad metaphor_ from [Vicente Huidobro](https://circulodepoesia.com/2018/02/vicente-huidobro-horizon-carre/): the elevator is a thermometer. Believing that good metaphors are always the same, is believing that there aren't new metaphors to look for: that nature is what we know, what we understand. The knowledge system is, therefore, complete.
 
-What opposes metaphors are literal statements. [Immanuel Kant](https://en.wikipedia.org/wiki/The_Only_Possible_Argument_in_Support_of_a_Demonstration_of_the_Existence_of_God) identifies two types of statements: analytic and synthetic. Science switched from describing nature through metaphors to describing nature through the latter. We went from "the river is time" to "time is a cathegory of the mind".
+## How do we gain knowledge if not by metaphors?
 
-with synthetic statements
+What opposes metaphors are literal statements. [Immanuel Kant](https://en.wikipedia.org/wiki/The_Only_Possible_Argument_in_Support_of_a_Demonstration_of_the_Existence_of_God) identifies two types of statements: analytic and synthetic. Science switched from describing nature through metaphors to describing nature through the latter. We went from "the river is time" to "time is a category of the mind" or "time is a physical parameter".
+
+Synthetic statements are connected and not self-explanatory, they produce a network of concepts and ideas with a higher level of complexity than before. With metaphors one can describe nature but with synthetic statements one can explain the metaphor and its limitations. A new landscape of possibilities opens where language binds everything together, but language is incomplete. Kant described the notion of creating knowledge from synthetic statements as:  
 
 > “But in order to attain this end, one must venture into the bottomless abyss of metaphysics. A dark ocean without shores and without lighthouses, where one must proceed as the seafarer on an uncharted sea, who, as soon as he touches land anywhere, examines and investigates his course, lest unnoticed sea-currents, despite all the caution that the art of navigation may command, have led him astray.”
 
-with the OTHER OPTION the system is incomplete and nature remains inscrutable.
+Here, the system is incomplete and nature remains inscrutable.
 
+## Analogies instead of metaphors?
 
+One new way of understanding phenomena is through the process of information. With the advent of computers and clusters we gain the power of understanding nature not by its fundamental mechanism but by its practical consequences. We have computers that are programmable and we used them to integrate (by brute force) data. The result is a map between natural phenomena and effective equations restricted to some regime of validity. We can even go further and define a renormalization-group (RG) flow to know how these maps change over different regimes. The mapping between phenomena and equations is an *analogy*: we understand nature by observables mapped to a model.
 
-
-Now, how do we gain knowledge if not by metaphors?
-
-
+This mapping is not unilateral, as we can also map a physical system onto a model. This is the principle of analogical computation.
 
 <img src="animation.gif" width="400"/>
 
