@@ -9,6 +9,12 @@ Whatever metaphors that you may create or _find_ are not necessarly new knowledg
 
 He also gave some examples of what _fundamental_ metaphors are: the river is time, sleep is dying, sunset is eld... and also one example of a _bad metaphor_ from [Vicente Huidobro](https://circulodepoesia.com/2018/02/vicente-huidobro-horizon-carre/): the elevator is a thermometer. Believing that good metaphors are always the same, is believing that there aren't new metaphors to look for: that nature is what we know, what we understand. The knowledge system is, therefore, complete.
 
+
+</details>
+
+<details>
+<summary><strong style="font-size: 1.5em;"> How do we gain knowledge if not by metaphors? </strong></summary>
+
 ## How do we gain knowledge if not by metaphors?
 
 What opposes metaphors are literal statements. [Immanuel Kant](https://en.wikipedia.org/wiki/The_Only_Possible_Argument_in_Support_of_a_Demonstration_of_the_Existence_of_God) identifies two types of statements: analytic and synthetic. Science switched from describing nature through metaphors to describing nature through the latter. We went from "the river is time" to "time is a category of the mind" or "time is a physical parameter".
@@ -18,6 +24,8 @@ Synthetic statements are connected and not self-explanatory, they produce a netw
 > “But in order to attain this end, one must venture into the bottomless abyss of metaphysics. A dark ocean without shores and without lighthouses, where one must proceed as the seafarer on an uncharted sea, who, as soon as he touches land anywhere, examines and investigates his course, lest unnoticed sea-currents, despite all the caution that the art of navigation may command, have led him astray.”
 
 Here, the system is incomplete and nature remains inscrutable.
+
+</details>
 
 ## Analogies instead of metaphors?
 
@@ -78,7 +86,7 @@ This project is a tradition: work out difficult problems and find complex soluti
 <details>
 <summary><strong style="font-size: 1.5em;"> What crumbles away cannot be destroyed </strong></summary>
 
-### *I wanted to understand how everything started, I didn't*
+## *I wanted to understand how everything started, I didn't*
 
 Even though I was able to write down my attempt to understand the [theory of inflation](https://inspirehep.net/files/0836d9c7afd62340b94b2233659de60b)
 
