@@ -1,7 +1,7 @@
 # Federico Serrano
 In the south of China you shouldn't flip the fish while eating it. You are meant to eat it from one side because turning the fish over brings misfortune to the fisherperson, as it resembles a flipping boat on the sea. The fish is the boat and the soup is the sea; humans rely on metaphors to understand nature.
 <details>
-<summary><strong style="font-size: 2.5em;"> How do we gain knowledge? </strong></summary>
+<summary><h2>Title</h2></summary>
 
 Using metaphors to describe nature works well in China, but not where I live, for here metaphors are not a source of knowledge anymore. It got me thinking about metaphors and its importance on building knowledge, how, as children, we learn about the world through metaphors. It was after enlightment when knowledge and metaphors detached abruptly to follow separate ways. Before enlightmenet, however, art and science were the same, and the seek of new knowledge was the seek of new metaphors.
 
@@ -13,7 +13,7 @@ He also gave some examples of what _fundamental_ metaphors are: the river is tim
 </details>
 
 <details>
-<summary><strong style="font-size: 5.5em;"> Synthetic knowledge  </strong></summary>
+<summary><strong style="font-size: 2.5em;"> Synthetic knowledge  </strong></summary>
 
 What opposes metaphors are literal statements. [Immanuel Kant](https://en.wikipedia.org/wiki/The_Only_Possible_Argument_in_Support_of_a_Demonstration_of_the_Existence_of_God) identifies two types of statements: analytic and synthetic. Science switched from describing nature through metaphors to describing nature through the latter. We went from "the river is time" to "time is a category of the mind" or "time is a physical parameter".
 
