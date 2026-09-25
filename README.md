@@ -20,7 +20,8 @@ Synthetic statements are connected and not self-explanatory, they produce a netw
 > “But in order to attain this end, one must venture into the bottomless abyss of metaphysics. A dark ocean without shores and without lighthouses, where one must proceed as the seafarer on an uncharted sea, who, as soon as he touches land anywhere, examines and investigates his course, lest unnoticed sea-currents, despite all the caution that the art of navigation may command, have led him astray.”
 
 Here, the system is incomplete and nature remains inscrutable.
-
+</details>
+<details>
 <summary><strong style="font-size: 2.5em;"> Analogies instead of metaphors? </strong></summary>
 
 One new way of understanding phenomena is through the process of information. With the advent of computers and clusters we gain the power of understanding nature not by its fundamental mechanism but by its practical consequences. We have computers that are programmable and we used them to integrate (by brute force) data. The result is a map between natural phenomena and effective equations restricted to some regime of validity. We can even go further and define a renormalization-group (RG) flow to know how these maps change over different regimes. The mapping between phenomena and equations is an *analogy*: we understand nature by observables mapped to a model.
