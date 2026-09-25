@@ -10,12 +10,8 @@ Whatever metaphors that you may create or _find_ are not necessarly new knowledg
 He also gave some examples of what _fundamental_ metaphors are: the river is time, sleep is dying, sunset is eld... and also one example of a _bad metaphor_ from [Vicente Huidobro](https://circulodepoesia.com/2018/02/vicente-huidobro-horizon-carre/): the elevator is a thermometer. Believing that good metaphors are always the same, is believing that there aren't new metaphors to look for: that nature is what we know, what we understand. The knowledge system is, therefore, complete.
 
 
-</details>
-
 <details>
-<summary><strong style="font-size: 1.5em;"> How do we gain knowledge if not by metaphors? </strong></summary>
-
-## How do we gain knowledge if not by metaphors?
+<summary><strong style="font-size: 2.5em;"> How do we gain knowledge if not by metaphors? </strong></summary>
 
 What opposes metaphors are literal statements. [Immanuel Kant](https://en.wikipedia.org/wiki/The_Only_Possible_Argument_in_Support_of_a_Demonstration_of_the_Existence_of_God) identifies two types of statements: analytic and synthetic. Science switched from describing nature through metaphors to describing nature through the latter. We went from "the river is time" to "time is a category of the mind" or "time is a physical parameter".
 
