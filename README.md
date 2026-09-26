@@ -88,7 +88,7 @@ While working on this project, there were moments where I felt I was making prog
 
 This project is a tradition: work out difficult problems and find complex solutions that answer nothing. We have been doing the same all over again. Maybe *Ecclesiastes* truly captured the essence of Nature—at least, of human nature. -->
 
-</details>
+<!-- </details>
 
 <details>
 <summary><strong style="font-size: 1.5em;"> What crumbles away cannot be destroyed </strong></summary>
@@ -98,4 +98,4 @@ This project is a tradition: work out difficult problems and find complex soluti
 Even though I was able to write down my attempt to understand the [theory of inflation](https://inspirehep.net/files/0836d9c7afd62340b94b2233659de60b)
 
 
-</details>
+</details> -->
